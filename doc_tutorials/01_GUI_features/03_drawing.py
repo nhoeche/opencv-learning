@@ -1,7 +1,6 @@
 '''
 3. Drawing objects
 '''
-
 import numpy as np
 import cv2
 
