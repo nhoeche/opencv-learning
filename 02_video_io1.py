@@ -1,5 +1,5 @@
 '''
-2.1 Capturing and viewing videos
+2. Capturing and viewing videos
 '''
 import numpy as np
 import cv2
