@@ -9,5 +9,10 @@ By cripcate
     * [x] Image i/o
     * [x] Video i/o
     * [x] Drawing functions
-    * [ ] Using mouse as paintbrush
-    * [ ] Using track-bars
+    * [x] Using mouse as paintbrush
+    * [x] Using track-bars
+  2. Core-operations
+    * [x] Basic operations
+    * [x] Arithmetic operations
+    * [ ] Performance-measurement and -improvement
+    * [ ] Mathematical tools
