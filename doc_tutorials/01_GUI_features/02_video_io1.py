@@ -5,7 +5,7 @@ import numpy as np
 import cv2
 
 # Capturing video from webcam
-cap = cv2.VideoCapture(0)  # 0 = device 0 = standard
+cap = cv2.VideoCapture(0)  # 0 = device 0 = default
 
 while True:  # While Capturing
     # Capture video frame
