@@ -14,5 +14,21 @@ By cripcate
   2. Core-operations
     * [x] Basic operations
     * [x] Arithmetic operations
-    * [ ] Performance-measurement and -improvement
-    * [ ] Mathematical tools
+    * [x] Performance-measurement and -improvement
+  3. Image-processing
+    * [x] Switching colorspaces
+    * [ ] Geometrical operations
+    * [ ] Image thresholding
+    * [ ] Smoothing images
+    * [ ] Morphological transformations
+    * [ ] Image gradients
+    * [ ] Canny edge-detection
+    * [ ] Image Pyramids
+    * [ ] Contours
+    * [ ] Histograms
+    * [ ] Image-Transformations
+    * [ ] Template-matching
+    * [ ] Hough-line-transform
+    * [ ] Hough-circle-transform
+    * [ ] Image-segmentation with watershed
+    * [ ] Interactive foreground extraction using GrabCut
