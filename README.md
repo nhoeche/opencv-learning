@@ -17,11 +17,11 @@ By cripcate
     * [x] Performance-measurement and -improvement
   3. Image-processing
     * [x] Switching colorspaces
-    * [ ] Geometrical operations
-    * [ ] Image thresholding
+    * [x] Geometrical operations
+    * [x] Image thresholding
     * [ ] Smoothing images
     * [ ] Morphological transformations
-    * [ ] Image gradients
+    * [x] Image gradients
     * [ ] Canny edge-detection
     * [ ] Image Pyramids
     * [ ] Contours
