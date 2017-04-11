@@ -22,7 +22,7 @@ By cripcate
     * [ ] Smoothing images
     * [ ] Morphological transformations
     * [x] Image gradients
-    * [ ] Canny edge-detection
+    * [x] Canny edge-detection
     * [ ] Image Pyramids
     * [ ] Contours
     * [ ] Histograms
@@ -30,5 +30,5 @@ By cripcate
     * [ ] Template-matching
     * [ ] Hough-line-transform
     * [ ] Hough-circle-transform
-    * [ ] Image-segmentation with watershed
+    * [x] Image-segmentation with watershed
     * [ ] Interactive foreground extraction using GrabCut
