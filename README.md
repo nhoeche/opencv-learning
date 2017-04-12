@@ -19,8 +19,8 @@ By cripcate
     * [x] Switching colorspaces
     * [x] Geometrical operations
     * [x] Image thresholding
-    * [ ] Smoothing images
-    * [ ] Morphological transformations
+    * [x] Smoothing images
+    * [x] Morphological transformations
     * [x] Image gradients
     * [x] Canny edge-detection
     * [ ] Image Pyramids
