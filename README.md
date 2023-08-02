@@ -1,10 +1,10 @@
 
-# My python scripts from different openCV tutorials
-By cripcate
+# Python scripts from different openCV tutorials
 
 ## List of tutorials
 
-* Tutorials from the official documentation: `doc_tutorials`
+### Tutorials from the official opencv documentation: `doc_tutorials`
+
   1. GUI-features
     * [x] Image i/o
     * [x] Video i/o
